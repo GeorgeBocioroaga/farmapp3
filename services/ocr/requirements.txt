@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+python-multipart
+numpy==1.26.4
+pillow
+pyclipper
+shapely
+requests
+pyyaml
+tqdm
+opencv-python==4.11.0.86
+scikit-image
+imgaug
+lmdb
+rapidfuzz
